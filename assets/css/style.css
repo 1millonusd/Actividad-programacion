@@ -1,0 +1,24 @@
+.page-item.active .page-link {
+    z-index: 3;
+    color: #fff;
+    background-color: black;
+    border-color: white;
+}
+
+.color-black {
+    color: black;
+}
+
+.color-black:hover {
+    color: black;
+}
+
+.btn-black {
+    background-color: #343A40;
+    color: white;
+}
+
+.btn-black:hover {
+    background-color: gray;
+    color: black;
+}
